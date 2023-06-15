@@ -1,0 +1,78 @@
+.navbar .ico{
+    font-weight:900;
+    font-size: 13px;
+    margin-top: 5px;
+    
+
+}
+.icon8{
+    display: flex;
+    gap: 7px;
+}
+.navbar .first_nav{
+    display: flex;
+    gap: 30px;
+    
+}
+ .unor{
+    display: flex;
+    gap: 30px;
+}
+li a{
+    color: rgb(75, 73, 73);
+    font-weight: bold;
+}
+.navbar .container{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    
+}
+.second_nav{
+    display: flex;
+    gap: 40px;
+    margin-left: 400px;
+}
+select[name="ICONS"]{
+    width: 60px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    border: none;
+}
+select[name="photo"]{
+    width: 72px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    border: none;
+}
+select[name="illustration"]{
+    width: 105px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    border: none;
+}
+select[name="AI"]{
+    width: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    border: none;
+}
+input[type="button"]{
+    width: 90px;
+    height: 39px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -5px;
+    border:1px solid rgb(215, 216, 217);
+    background-color: white;
+    border-radius: 5px;
+    
+    
+
+}
+
+
