@@ -12,6 +12,7 @@
 .navbar .first_nav{
     display: flex;
     gap: 30px;
+    padding: 15px;
     
 }
  .unor{
@@ -33,6 +34,7 @@ li a{
     display: flex;
     gap: 40px;
     margin-left: 400px;
+
 }
 select[name="ICONS"]{
     width: 60px;
