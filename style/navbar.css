@@ -23,13 +23,6 @@ li a{
     color: rgb(75, 73, 73);
     font-weight: bold;
 }
-.navbar .container{
-    display: flex;
-    gap: 50px;
-    margin: auto;
-    padding: 8px;
-    
-}
 .second_nav{
     display: flex;
     gap: 40px;
@@ -49,6 +42,7 @@ select[name="photo"]{
     font-weight: bold;
     color: rgb(75, 73, 73);
     border: none;
+    background-color: transparent;
 }
 select[name="illustration"]{
     width: 105px;
@@ -56,6 +50,7 @@ select[name="illustration"]{
     font-weight: bold;
     color: rgb(75, 73, 73);
     border: none;
+    background-color: transparent;
 }
 select[name="AI"]{
     width: 40px;
@@ -63,6 +58,7 @@ select[name="AI"]{
     font-weight: bold;
     color: rgb(75, 73, 73);
     border: none;
+    background-color: transparent;
 }
 input[type="button"]{
     width: 90px;
@@ -93,6 +89,7 @@ input[type="text"]{
 .btn{
     text-align: center ;
     width: 80px;
+    height: 40px;
     margin-left: 10px;
     font-weight: bold;
     color: white;
@@ -108,14 +105,14 @@ input[type="text"]{
     background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/main-gradient.png);
     height: 500px;
     width: 1120px;
-    margin-top: -40px;
-    margin-left: 180px;
-
-     
- }
+    margin-top: -60px;
+    margin-left: 180px;  
+}
  .room{
      margin-left: 300px;
      padding: 100px;
+     text-align: center;
+     
  }
  .icu{
     display: flex;
@@ -129,7 +126,7 @@ input[type="text"]{
     border: none;
     background-color: transparent;
     font-size: 18px;
-    padding: 7px;
+    padding: 11px;
  }
  .img-new{
     display: flex;
@@ -142,13 +139,15 @@ input[type="text"]{
  .form_icon{
     display: flex;
     margin-top: 50px;
-    margin-left: -200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
      
  }
  .branch_img{
     padding: 7px;
  }
- .search{
+ .sea{
     margin-top: 7px;
     padding: 1px;
     margin-left: -10px;
@@ -156,20 +155,93 @@ input[type="text"]{
     
  }
  span{
-    background-color: yellow;
+    line-height: 3;
     
  }
  .list-icons{
     font-size: 44px;
     font-weight: bold;
-    text-indent: -30px;
-    margin-left: -120px;
-    
-    
+    text-indent: -18px;
+    margin-left: -120px;      
+ }
+ .src{
+    background-color: transparent;
  }
  .container_hero{
-    margin-top: 30px
+    margin-top: 50px;
+    margin-left: 30px;
  }
+ .room{
+    width: 700px;
+    margin: auto;
+ }
+ .pular{
+    display: flex;
+    gap: 5px;
+ }
+ .pular li a{
+    text-decoration: underline;
+    font-weight: normal;
+ }
+ .popular{
+    display: flex;
+    margin-left: -205px;
+    gap:5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+ }
+ .dcatton{
+    display: flex;
+    gap: 40px;
+    margin-left: 50px;
+    
+ }
+ .d_illustration{
+    display: flex;
+ }
+ .gopro{
+    display: flex;
+ }
+ .lunac{
+    display: flex;
+ }
+ .wrap{
+    display: flex;
+ }
+ .create{
+    padding: 10px;
+    margin-top: -20px;
+ }
+ .profor{
+    padding: 10px;
+    margin-top: -25px;
+
+ }
+ .outs{
+    padding: 10px;
+    margin-top: -25px;
+ }
+ .dill{
+    border: 2px solid;
+    border-color: plum;
+    border-radius: 5px;
+    height: 90px;
+ }
+ .mac{
+    border: 2px solid;
+    border-color: whitesmoke;
+    border-radius: 5px;
+    height: 90px;
+ }
+ .nac{
+    border: 2px solid;
+    border-color: rgb(159, 159, 211);
+    border-radius: 5px;
+    height: 90px;
+ }
+ 
+ 
  
 
 
