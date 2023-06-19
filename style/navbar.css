@@ -114,6 +114,9 @@ input[type="text"]{
      text-align: center;
      
  }
+ .container{
+   height: 700px;
+ }
  .icu{
     display: flex;
     background-color: whitesmoke;

@@ -1,0 +1,14 @@
+.free_icons .se{
+      display: flex;
+      gap: 5px;
+      color: rgb(186, 185, 185);
+}
+.style{
+    display: flex;
+    gap: 15px;
+    margin-left: 45px;
+}
+.free{
+    font-size: 17px;
+    font-weight: bold;
+}
