@@ -159,6 +159,7 @@ input[type="text"]{
  }
  span{
     line-height: 3;
+    font-weight: bold;
     
  }
  .list-icons{
@@ -243,6 +244,7 @@ input[type="text"]{
     border-radius: 5px;
     height: 90px;
  }
+ 
  
  
  
