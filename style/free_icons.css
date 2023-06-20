@@ -1,4 +1,4 @@
-.free_icons .se{
+.free_icons .set{
       display: flex;
       gap: 5px;
       color: rgb(186, 185, 185);
@@ -13,7 +13,7 @@
     font-weight: bold;
 }
 .container_sec{
-     height: 400px;
+     height: 350px;
 }
 .wrap_gly{
    display: flex;

@@ -2,9 +2,32 @@
     margin-left: 20px;
     font-size: 25px;
     font-weight: bold;
-    margin-top: -50px;
+    margin-top: -25px;
     padding: 30px;
 }
-.commence{
+.left-col{
     margin-left: 50px;
+
+}.right-col{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    gap: 7px;
+    
+}
+.soft{
+    font-weight: bold;
+    padding: 20px;
+    border: 1px solid rgb(209, 207, 207);
+    height: 3px;
+    margin-top: 10px;
+}
+.lu{
+    font-weight: bold;
+}
+.grap{
+    margin-left: -60px;
+}
+.container_tools{
+    display: flex;
 }
