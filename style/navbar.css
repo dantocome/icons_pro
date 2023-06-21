@@ -109,9 +109,11 @@ input[type="text"]{
     margin-left: 180px;  
 }
  .room{
-     margin-left: 300px;
      padding: 100px;
      text-align: center;
+     height: 250px;
+     width: 700px;
+     margin:auto
      
  }
  .container{
