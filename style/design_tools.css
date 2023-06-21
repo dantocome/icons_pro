@@ -1,5 +1,5 @@
 .sign{
-    margin-left: 20px;
+    margin-left: -30px;
     font-size: 25px;
     font-weight: bold;
     margin-top: -25px;
@@ -11,15 +11,16 @@
 }.right-col{
     display: flex;
     margin-left: 50px;
-    margin-top: 10px;
+    margin-top: px;
     gap: 7px;
     
 }
-.soft{
+.sof{
     font-weight: bold;
-    padding: 20px;
     border: 1px solid rgb(209, 207, 207);
-    height: 3px;
+    height: 35px;
+    text-align: center;
+    width: 249px;
     margin-top: 10px;
 }
 .lu{
@@ -30,4 +31,14 @@
 }
 .container_tools{
     display: flex;
+    margin-top: 50px;
+}
+.seo{
+    margin-top: -98px;
+}
+.right-co{
+    margin-left: 50px;
+}
+.fin{
+    text-decoration: underline;
 }
