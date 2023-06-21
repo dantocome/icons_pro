@@ -42,3 +42,19 @@
 .fin{
     text-decoration: underline;
 }
+.container_tools_mega{
+    display: flex;
+    margin-top: 40px;
+}
+.right-col_new{
+   margin-left: 50px;
+}
+.design-on{
+    margin-top: 100px;
+
+}
+.imag{
+    border: 3px solid rgb(118, 162, 244);
+    border-radius: 7px;
+    height: 240px;
+}
