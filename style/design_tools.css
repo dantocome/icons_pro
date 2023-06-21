@@ -11,23 +11,26 @@
 }.right-col{
     display: flex;
     margin-left: 50px;
-    margin-top: px;
+    margin-top: 20px;
     gap: 7px;
     
 }
 .sof{
     font-weight: bold;
-    border: 1px solid rgb(209, 207, 207);
+    border: 1px solid rgb(229, 228, 228);
     height: 35px;
     text-align: center;
     width: 249px;
     margin-top: 10px;
+    border-radius: 5px;
 }
+
 .lu{
     font-weight: bold;
+    font-size: 20px;
 }
 .grap{
-    margin-left: -60px;
+    margin-left: -70px;
 }
 .container_tools{
     display: flex;
@@ -38,6 +41,7 @@
 }
 .right-co{
     margin-left: 50px;
+    margin-top: 20px;
 }
 .fin{
     text-decoration: underline;
@@ -54,7 +58,42 @@
 
 }
 .imag{
-    border: 3px solid rgb(118, 162, 244);
+    border: 2.5px solid rgb(118, 162, 244);
     border-radius: 7px;
     height: 240px;
+}
+.imej{
+    border: 2.5px solid rgb(235, 197, 235);
+    border-radius: 7px;
+    height: 240px;
+}
+.imgtird{
+    border: 2.5px solid rgb(141, 249, 141);
+    border-radius: 7px;
+    height: 240px;
+}
+.static{
+    border: 2.5px solid rgb(250, 181, 250);
+    border-radius: 7px;
+    height: 240px;
+}
+.landing{
+    border: 2.5px solid rgb(196, 207, 207);
+    border-radius: 7px;
+    height: 240px;
+}
+.vue{
+    border: 2.5px solid rgb(215, 220, 220);
+    border-radius: 7px;
+    height: 240px;
+}
+.soo{
+  font-size: 15px;
+  width: 110px;
+  margin-top: 15px;
+  height: 40px;
+  border-radius: 5px;
+  border-color: rgb(213, 210, 210);
+  font-weight: bold;
+
 }
