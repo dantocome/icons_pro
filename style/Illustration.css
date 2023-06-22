@@ -1,0 +1,31 @@
+.Illustration .container_illustration{
+}
+.zero{
+    display: flex;
+}
+.Illustration .right-ouch{
+    background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/products/preview/ouch.png);
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+
+}
+.imagess{
+    
+}
+.img-one{
+    margin-top: -480px;
+    margin-left: 200px;
+}
+.img-tree{
+  padding:150px;
+  margin-left: -40px;
+}
+.img-two{
+    margin-left: 30px;
+    margin-top: 160px;
+}
+.fore{
+ margin-left: 400px;
+ margin-top: -475px;
+}
