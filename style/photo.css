@@ -1,3 +1,18 @@
-.photo .right-photos{
+.photo .right-photo{
     background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/products/preview/moose.png);
+    width: 610px;
+    height: 570px;
+    margin-top: 30px;
+}
+.img-onee{
+  text-align: center;
+  padding: 90px;
+}
+.img-twoo{
+ margin-left: -20px;
+ margin-top: -370px;
+    
+}
+.container_photo{
+    margin-left: 50px;
 }
