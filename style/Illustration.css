@@ -14,14 +14,20 @@
     background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/products/preview/ouch.png);
     width: 610px;
     height: 570px;
-    margin-left: 50px;
     border: 2px solid rgb(192, 233, 192);
     border-radius: 10px; 
     margin-top: 30px;
+    position: relative;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+.Illust{
+    margin-left: 100px;
 }
 .right-ouc{
     margin-top: 40px;
-    border: 3px solid  rgb(178, 104, 178);
+    border: 2px solid  rgb(186, 112, 186);
     height: 570px;
     border-radius: 7px;
 }
@@ -33,28 +39,54 @@
 .ribble{
     margin-top: -10px;
 }
-.img-one{
-    margin-top: -490px;
-    margin-left: 180px;
-    height: 150px;
-    width: 120px;
-    
-}
-.img-tree{
+.img3{
   padding:150px;
   margin-left: -50px;
+  width: 350px;
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  left: 0;
 }
-.img-two{
-    margin-left: 40px;
-    margin-top: 160px;
+.img1{
+    margin-left: 180px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: 45px;
+    z-index: 1;
+    border: 2px solid rgb(218, 215, 215);
+    border-radius: 7px;
 }
-.fore{
+.img4{
  margin-left: 400px;
- margin-top: -465px;
+ margin-top: 30px;
+ position: relative;
+ left: 0;
+ right: 0;
+ z-index: -1;
+ border: 2px solid rgb(248, 230, 195);
+ border-radius: 5px;
 }
-.five{
-    margin-top: 200px;
+.img2{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: 350px;
+    z-index: 2;
+    margin-left: 30px;
+    border: 2px solid rgb(124, 124, 253);
+    border-radius: 7px;
+    height: 140px;
+}
+.img5{
+    margin-top: 190px;
     margin-left: 270px;
+    position: relative;
+    right: 0;
+    left: 0;
+    border: 2px solid palevioletred;
+    border-radius: 10px;
 }
 .left-ouch{
     margin-left: 50px;
@@ -75,3 +107,4 @@
     line-height: 2;
     font-size: 20px;
 }
+

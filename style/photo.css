@@ -3,16 +3,29 @@
     width: 610px;
     height: 570px;
     margin-top: 30px;
-}
-.img-onee{
-  text-align: center;
-  padding: 90px;
-}
-.img-twoo{
- margin-left: -20px;
- margin-top: -370px;
+    border: 2px solid rgb(197, 249, 249);
+    border-radius: 7px;
     
 }
-.container_photo{
-    margin-left: 50px;
+.img6{
+  position: relative;
+  left: 0;
+  right: 0;
+  
+
+}
+.img7{
+ position: absolute;
+ right: 0;
+ left: 0;
+    
+}
+.img8{
+    position: relative;
+}
+.img9{
+  position: relative;
+}
+.img10{
+  position: relative;
 }

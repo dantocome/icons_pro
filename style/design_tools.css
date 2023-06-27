@@ -35,6 +35,7 @@
 .container_tools{
     display: flex;
     margin-top: 50px;
+    margin-left: 50px;
 }
 .seo{
     margin-top: -98px;
@@ -49,6 +50,7 @@
 .container_tools_mega{
     display: flex;
     margin-top: 40px;
+    margin-left: 50px;
 }
 .right-col_new{
    margin-left: 50px;
