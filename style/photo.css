@@ -15,7 +15,6 @@
   right: 0;
   margin-left: 180px;
   margin-top: 80px;
-  border: 2px solid rgb(236, 232, 232);
   border-radius: 7px;
   
 
@@ -24,7 +23,6 @@
  position: absolute;
  right: 0;
  left: 0;
- border: 2px solid rgb(235, 224, 224);
  border-radius: 10px;
  z-index: -1;
  margin-top: 200px;
@@ -33,14 +31,12 @@
 }
 .img8{
     position: absolute;
-    border: 2px solid rgb(150, 181, 194);
     border-radius: 50px;
     margin-left: -70px;
     margin-top: 20px;
 }
 .img9{
   position: relative;
-  border: 2px solid rgb(228, 225, 225);
   border-radius: 10px;
   margin-left: 30px;
   margin-top: -60px;
@@ -49,16 +45,10 @@
   position: absolute;
   left: 0;
   right: 0;
-  border: 2px solid  rgb(235, 224, 224);
   border-radius: 10px;
   margin-left: 400px;
   width: 230px;
   height: 300px;
   z-index: 2;
   margin-top: -250px;
-}
-
-.imagess{
-  position: absolute;
-  
 }
