@@ -21,6 +21,7 @@
 }
 .container_sec{
      height: 350px;
+     margin-left: 50px;
 }
 .wrap_gly{
    display: flex;

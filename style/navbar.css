@@ -19,6 +19,9 @@
     display: flex;
     gap: 30px;
 }
+  .treedill{
+   line-height: 1;
+  }
 li a{
     color: rgb(75, 73, 73);
     font-weight: bold;
@@ -85,6 +88,16 @@ input[type="text"]{
     background-color: rgb(249, 184, 65);
     border-radius: 5px;
     font-weight: bold;
+}
+.bot{
+   width: 35px;
+   height: 19px;
+   border: none;
+    background-color: rgb(249, 184, 65);
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 230px;
+    
 }
 .btn{
     text-align: center ;
@@ -160,8 +173,9 @@ input[type="text"]{
     
  }
  span{
-    line-height: 2;
+    line-height: 1.5;
     font-weight: bold;
+    
     
  }
  .list-icons{
@@ -199,8 +213,8 @@ input[type="text"]{
  }
  .dcatton{
     display: flex;
-    gap: 40px;
-    margin-left: 50px;
+    gap: 50px;
+    margin-left: 100px;
     
  }
  .d_illustration{
@@ -217,7 +231,7 @@ input[type="text"]{
  }
  .create{
     padding: 10px;
-    margin-top: -20px;
+    margin-top: -10px;
  }
  .profor{
     padding: 10px;
@@ -228,24 +242,14 @@ input[type="text"]{
     padding: 10px;
     margin-top: -25px;
  }
- .dill{
-    border: 2px solid;
-    border-color: plum;
-    border-radius: 5px;
-    height: 90px;
+ .dil{
+    border-radius: 7px;
  }
- .mac{
-    border: 2px solid;
-    border-color: whitesmoke;
-    border-radius: 5px;
-    height: 90px;
+ .remove{
+   line-height: 1.7;
  }
- .nac{
-    border: 2px solid;
-    border-color: rgb(159, 159, 211);
-    border-radius: 5px;
-    height: 90px;
- }
+ 
+ 
  
  
  

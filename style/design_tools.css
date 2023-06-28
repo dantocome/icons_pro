@@ -60,36 +60,17 @@
     margin-top: 100px;
 
 }
-.imag{
-    border: 2.5px solid rgb(118, 162, 244);
-    border-radius: 7px;
-    height: 240px;
+
+.img{
+    border-radius: 10px;
 }
-.imej{
-    border: 2.5px solid rgb(235, 197, 235);
-    border-radius: 7px;
-    height: 240px;
-}
-.imgtird{
-    border: 2.5px solid rgb(141, 249, 141);
-    border-radius: 7px;
-    height: 240px;
-}
+
+
 .static{
-    border: 2.5px solid rgb(250, 181, 250);
     border-radius: 7px;
-    height: 240px;
 }
-.landing{
-    border: 2.5px solid rgb(196, 207, 207);
-    border-radius: 7px;
-    height: 240px;
-}
-.vue{
-    border: 2.5px solid rgb(215, 220, 220);
-    border-radius: 7px;
-    height: 240px;
-}
+
+
 .soo{
   font-size: 15px;
   width: 110px;

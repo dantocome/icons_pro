@@ -42,11 +42,9 @@
 .img3{
   padding:150px;
   margin-left: -50px;
-  width: 350px;
+  border-radius: 10px;
   position: absolute;
   z-index: 2;
-  right: 0;
-  left: 0;
 }
 .img1{
     margin-left: 180px;
