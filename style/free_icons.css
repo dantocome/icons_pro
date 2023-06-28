@@ -16,6 +16,9 @@
     font-size: 25px;
     font-weight: bold;
 }
+.os{
+    height: 40px;
+}
 .container_sec{
      height: 350px;
 }
