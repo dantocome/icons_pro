@@ -2,28 +2,59 @@
     background-color: rgb(41, 39, 39);
     width: 610px;
     height: 570px;
-    border: 3px solid;
     border-radius: 10px;
     position: relative;
+    margin-top: 40px;
 }
 .img11{
-    border-radius: 100px;
+    border-radius: 130px;
+    position:relative;
+    margin-left: 170px;
+    margin-top: 160px;
+    z-index: 2;
+
 }
 .img12{
     border-radius: 100px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: 100px;
+    margin-left: 50px;
+    z-index: 1;
 }
 .img13{
     border-radius: 100px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 320px;
+    left: 0;
+    right: 0;
 }
 .img14{
     border-radius: 100px;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 50px;
+    left: 0;
+    right: 0;
 }
 .img15{
     border-radius: 100px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: 200px;
+    margin-left: -30px;
 }
 .img16{
     border-radius: 100px;
+    position: absolute;
+    margin-top: 350px;
 }
 .img17{
     border-radius: 100px;
+    position:absolute;
+    margin-top: 420px;
+    margin-left: -350px;
 }
