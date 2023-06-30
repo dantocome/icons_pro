@@ -1,0 +1,35 @@
+.generator .gen{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.Dev{
+    display: flex;
+    gap: 50px;
+    margin-top: 100px;
+
+}
+.wrapo{
+    margin-left: -200px;
+    display: flex;
+    margin-top: 10px;
+    gap: 50px;
+}
+.icon8 li{
+    margin-top: 40px;
+    text-decoration: underline;
+    line-height: 2;
+    color: black;
+}
+.geico{
+    font-size: 17px;
+}
+.wrapin{
+    display: flex;
+    margin-left: -180px;
+}
+.right-co3{
+    margin-left: 150px;
+}
+.right-co4{
+    margin-left: 40px;
+}
