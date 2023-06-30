@@ -7,6 +7,17 @@
     margin-top: 40px;
     
 }
+.right-A{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.ribble{
+    font-size: 17px;
+    color: rgb(72, 70, 70);
+}
+
 .img11{
     border-radius: 130px;
     position:relative;
