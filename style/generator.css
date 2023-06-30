@@ -25,7 +25,8 @@
 }
 .wrapin{
     display: flex;
-    margin-left: -180px;
+    margin-left: -140px;
+    gap: 40px;
 }
 .right-co3{
     margin-left: 150px;
