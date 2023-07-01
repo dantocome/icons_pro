@@ -46,3 +46,11 @@
 .log10{
     margin-left: 15px;
 }
+.list{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+.blog li a{
+    line-height: 3;
+    text-decoration: underline;
+}
