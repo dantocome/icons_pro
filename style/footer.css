@@ -54,3 +54,8 @@
     line-height: 3;
     text-decoration: underline;
 }
+.private{
+    color: rgb(92, 88, 88);
+    font-weight:lighter;
+    text-decoration: underline;
+}
