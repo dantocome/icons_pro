@@ -279,6 +279,9 @@ input[type="text"]{
    option[value="Icons"]{
       display: none;
    }
+   .img-new{
+      display: none;
+   }
  }
  
  
