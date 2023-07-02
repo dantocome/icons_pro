@@ -13,6 +13,8 @@
     display: flex;
     gap: 30px;
     padding: 15px;
+    margin-left: 100px;
+    margin-top: -40px;
     
 }
  .unor{
@@ -247,6 +249,33 @@ input[type="text"]{
  }
  .remove{
    line-height: 1.7;
+ }
+
+ 
+ @media screen and (max-width:375px){
+ .navbar .form_control{
+      display: none;
+   }
+   .price{
+      display: none;
+   }
+   input [type="button"]{
+      display: none;
+   }
+   .second_nav{
+      display: none;
+   }
+   .navbar .hero{
+      background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/main-gradient.png);
+      width: 400px;
+      margin-left: -20px;
+   }
+   .container_hero{
+      margin-left: -300px;
+   }
+   .list-icons{
+      font-size: 20px;
+   }
  }
  
  
