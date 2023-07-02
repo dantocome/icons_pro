@@ -276,6 +276,9 @@ input[type="text"]{
    .list-icons{
       font-size: 20px;
    }
+   option[value="Icons"]{
+      display: none;
+   }
  }
  
  
