@@ -110,6 +110,7 @@ input[type="text"]{
     color: white;
     background-color: black;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 ::placeholder{
@@ -266,9 +267,8 @@ input[type="text"]{
       display: none;
    }
    .navbar .hero{
-      background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/main-gradient.png);
-      width: 400px;
-      margin-left: -20px;
+      display: block;
+      margin: auto;
    }
    .container_hero{
       margin-left: -300px;
@@ -282,6 +282,16 @@ input[type="text"]{
    .img-new{
       display: none;
    }
+   .form_icon{ 
+      margin-left: -400px;
+   }
+   .btn{
+   }
+   .popular{
+      display: flex;
+      flex-direction: column;
+   }
+   
  }
  
  
