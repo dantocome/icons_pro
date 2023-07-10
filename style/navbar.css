@@ -4,7 +4,8 @@
    min-height: 700px;
    position: relative;
    display: flex;
-   border: 1px solid red;
+   flex-direction: column;
+   align-items: center;
 }
 .menu_container{
 
@@ -21,18 +22,43 @@ h4{
    margin-top: 18px;
    margin-left: -10px;
 }
+.price{
+   display: flex;
+   margin-left: 410px;
+   gap: 40px;
+}
+.us{
+   margin-top: 5px;
+}
+.btn{
+   width: 90px;
+   height: 37px;
+   margin-top: -5px;
+   border:1px solid rgb(206, 199, 199);
+   background-color: white;
+   color: rgb(135, 131, 131);
+   font-size: 16px;
+   font-weight: bold;
+   border-radius: 5px;
+}
 .primnav{
    display: flex;
    margin-left: -30px;
    gap: 20px;
    align-items: center;
    justify-content: center;
-   margin-top: -42px;
+   margin-top: -48px;
 }
+
 .primnav li a{
    font-weight: bold;
    color: rgb(105, 99, 99);
 }
+.text_container{
+   text-align: center;
+   z-index: 5;
+}
+
 
 select[name="icons"]{
    border: hidden;
@@ -70,10 +96,10 @@ select[name="Ai"]{
    max-width: 700px;
    position: absolute;
    display: grid;
-   margin-left: 400px;
+   margin-top: 250px;
    grid-template-columns: repeat(5, 1fr);
    filter: blur(110px); 
-   margin-top: 200px;
+   
 }
 .circles{
    width:100%;
@@ -112,7 +138,17 @@ select[name="Ai"]{
    background-color:rgb(220, 73, 20) ;
 }
 
- 
+ @media screen and (max-width:375px){
+   .primnav{
+      display: none;
+   }
+   .mobil_text{
+      display: block;
+   }
+   .text_container{
+      display: none;
+   }
+ }
  
  
  
