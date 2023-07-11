@@ -13,16 +13,18 @@
 }
 .icon8{
    display: flex;
-   margin-top: -328px;
+   margin-top: -280px;
 }
 .icon{
    margin: 13px;
-
-
 }
 h4{
-   margin-top: 18px;
-   
+   margin-top: 18px;  
+}
+h2{
+   font-size: 50px;
+   margin-top: -50px;
+
 }
 .price{
    display: flex;
@@ -31,6 +33,10 @@ h4{
 }
 .us{
    margin-top: 5px;
+}
+.cons{
+   display: flex;
+   z-index: -5;
 }
 .btn{
    width: 90px;
@@ -57,9 +63,23 @@ h4{
 }
 .text_container,.mobil_text{
    text-align: center;
+   z-index: -5;
 }
 .mobil_text{
    display: none;
+}
+.pop{
+   display: flex;
+}
+.cap{
+   display: flex;
+}
+.popular{
+   display: flex;
+}
+.out{
+   z-index: 5;
+   margin-top: 20px;
 }
 
 
@@ -151,10 +171,16 @@ select[name="Ai"]{
       display: none;
    }
    .mobil_text{
-      display: block;
+      display:flex;
+      flex-direction:column-reverse;
+      
    }
    .text_container{
       display: none;
+   }
+   h2{
+      font-size: 20px;
+      font-weight:bolder;
    }
    .icon8{
       display: flex;
@@ -165,6 +191,7 @@ select[name="Ai"]{
    .icon{
       margin-top: 8px;
    }
+   
  }
  
  
