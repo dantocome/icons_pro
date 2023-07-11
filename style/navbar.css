@@ -118,6 +118,11 @@ input[type="text"]{
    border-top-right-radius: 5px;
    border-bottom-right-radius: 5px;
 }
+::placeholder{
+   padding: 20px;
+   font-size: 17px;
+   color: rgb(187, 185, 185);
+}
 select[name="icons"]{
    border: hidden;
    font-weight: bold;
@@ -219,6 +224,7 @@ select[name="Ai"]{
    .mobil_text{
       display:flex;
       flex-direction:column-reverse;
+      padding: 60px;
       
    }
    .text_container{
