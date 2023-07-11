@@ -6,21 +6,23 @@
    display: flex;
    flex-direction: column;
    align-items: center;
+   justify-content: center;
 }
 .menu_container{
 
 }
 .icon8{
-   display:flex;
-   gap: 2px;
-
+   display: flex;
+   margin-top: -328px;
 }
 .icon{
    margin: 13px;
+
+
 }
 h4{
    margin-top: 18px;
-   margin-left: -10px;
+   
 }
 .price{
    display: flex;
@@ -47,16 +49,17 @@ h4{
    gap: 20px;
    align-items: center;
    justify-content: center;
-   margin-top: -48px;
 }
 
 .primnav li a{
    font-weight: bold;
    color: rgb(105, 99, 99);
 }
-.text_container{
+.text_container,.mobil_text{
    text-align: center;
-   z-index: 5;
+}
+.mobil_text{
+   display: none;
 }
 
 
@@ -90,15 +93,20 @@ select[name="Ai"]{
 }
 .first_prim_navbar{
    margin-left: 200px;
+   margin-top: -50px;
+   position: relative;
 }
 .circle_container{
    width: 100%;
    max-width: 700px;
    position: absolute;
    display: grid;
-   margin-top: 250px;
    grid-template-columns: repeat(5, 1fr);
-   filter: blur(110px); 
+   filter: blur(110px);
+   align-items: center;
+   margin:auto;
+   
+   
    
 }
 .circles{
@@ -147,6 +155,15 @@ select[name="Ai"]{
    }
    .text_container{
       display: none;
+   }
+   .icon8{
+      display: flex;
+      padding: 55px;
+      gap: -5px;
+      margin-left: -120px;
+   }
+   .icon{
+      margin-top: 8px;
    }
  }
  
