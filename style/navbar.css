@@ -75,9 +75,13 @@ h2{
    font-size: 30px;
 }
 .bu{
-   width: 30px;
+   width: 35px;
    margin-left: 15px;
    margin-top: -40px;
+   border: hidden;
+   background-color: rgb(255, 180, 41);
+   border-radius: 5px;
+   font-weight: bold;
 }
 .bo{
    width: 30px;
@@ -275,7 +279,9 @@ select[name="Ai"]{
    .mobil_text{
       display:flex;
       flex-direction:column-reverse;
-      padding: 60px;
+      padding: 100px;
+      align-items: center;
+      justify-content: center;
       
    }
    .text_container{
@@ -289,10 +295,27 @@ select[name="Ai"]{
       display: flex;
       padding: 55px;
       gap: -5px;
-      margin-left: -120px;
+      margin-left: 250px;
    }
    .icon{
       margin-top: 8px;
+   }
+   .select{
+      display: flex;
+   }
+   .cons{
+      display: flex;
+      flex-direction: column;
+      margin-left: 400px;
+   }
+   .popular{
+      display: flex;
+      flex-direction: column;
+      margin-left: 400px;
+   }
+   .three_Ds{
+      display: flex;
+      flex-direction: column;
    }
    
  }
