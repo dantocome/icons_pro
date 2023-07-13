@@ -4,15 +4,19 @@
 }
 .Dev{
     gap: 50px;
-    margin-top: 50px;
+    margin-top: 70px;
 
 }
 
-.icon8 li{
-    margin-top: 240px;
+.icon8 li {
+    margin-top: 235px;
     text-decoration: underline;
     line-height: 2;
-    color: black;
+    color: rgb(102, 100, 100);   
+}
+span{
+    color: rgb(63, 62, 62);
+    font-weight: 700;
 }
 .geico{
     font-size: 17px;
@@ -24,8 +28,20 @@
 }
 .bottom-col{
     display: flex;
+    gap: 50px;
+    margin-top: 40px;
+}
+.bottom-co3{
+    margin-left: 70px;
 }
 
 h3{
     font-size: 30px;
+}
+.icons8{
+   margin-top: 40px;
+}
+.icons8 li{
+    text-decoration: underline;
+    color: rgb(102, 100, 100);  
 }
