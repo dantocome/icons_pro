@@ -13,13 +13,29 @@
 }
 .icon8{
    display: flex;
-   margin-top: -245px;
+   margin-top: -150px;
 }
 .icon{
    margin: 13px;
 }
 h4{
    margin-top: 18px;  
+}
+.go{
+   font-size: 16px;
+   margin-top: 4px;
+}
+.ril li a{
+   line-height: 1.5;
+}
+.ri li a{
+   line-height: 1.5;
+}
+.move{
+   margin-top: 9px;
+   text-decoration: underline;
+   font-size: 17px;
+   
 }
 h2{
    font-size: 50px;
@@ -31,10 +47,44 @@ h2{
    display: flex;
    margin-left: 410px;
    gap: 40px;
+   margin-top: 10px;
 }
 .us{
    margin-top: 5px;
 }
+.three_Ds{
+ display: flex;
+ gap: 40px;
+ margin-top: 100px;
+}
+.ds1{
+   display: flex;
+   gap: 15px;
+   line-height: 0.9;  
+   
+}
+.right-col{
+   display: flex;
+   flex-direction: column;
+   
+}
+.lun{
+   border-radius: 5px;
+}
+.spann{
+   font-size: 30px;
+}
+.bu{
+   width: 30px;
+   margin-left: 15px;
+   margin-top: -40px;
+}
+.bo{
+   width: 30px;
+   margin-left: 110px;
+   margin-top: -20px;
+}
+
 .cons{
    display: flex;
    z-index: -5;
@@ -127,16 +177,17 @@ select[name="icons"]{
    border: hidden;
    font-weight: bold;
    font-size: 15px;
-   color: rgb(105, 99, 99);
+   color: rgb(103, 101, 101);
    width: 62px;
 }
 select[name="iconss"]{
    height: 45px;
    padding: 5px;
-   width: 100px;
+   width: 90px;
    font-size: 16px;
    font-weight: bold;
-   color: rgb(157, 150, 150);
+   color: black;
+   background-color:rgb(244, 243, 243);
    border: hidden;
    border-top-left-radius: 5px;
    border-bottom-left-radius: 5px;
