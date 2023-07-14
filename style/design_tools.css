@@ -73,6 +73,7 @@
     .container_tools{
         display: flex;
         flex-direction: column;
+        
     }
     .img{
         width: 340px;
@@ -95,6 +96,20 @@
     .lu{
         font-size: 15px;
     }
+    .right-co{
+        margin-left: -30px;
+    }
+    .container_tools_mega{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .static{
+        width: 340px;
+        height: 200px;
+        margin-left: -30px;
+    }
+    
 }
 
 

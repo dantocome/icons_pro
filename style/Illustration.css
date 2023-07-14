@@ -110,4 +110,33 @@
     line-height: 2;
     font-size: 20px;
 }
+@media screen and (max-width:375px){
+    .Illust{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .Illustration .right-ouch{
+        width: 350px;
+        height: 300px;
+        margin-left: -90px;
+        
+    }
+    .img3{
+        margin-left: -100px;
+        margin-top: -70px;
+        width: 550px;
+    }
+    .img4{
+        margin-left: -80px;
+        width: 150px;
+        border: none;
+    }
+    .img1{
+        width: 90px;
+        height: 130px;
+        border: none;
+        border-radius: 15px;
+    }
+}
 
