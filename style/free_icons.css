@@ -58,18 +58,32 @@
     .glyph_cn{
         display: none;
     }
-    .container_sec{
-        display: flex;
-        flex-direction:column-reverse;
-    }
+    
     .wrap_gly{
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: auto;
     }
     .glyph_container{
-        width: 150px;
+        width: 140px;
         height: 150px;
+        
     }
+    .all{
+        font-size: 14px;
+        padding: 5px;
+    }
+    .set{
+        display: flex;
+        margin: auto;
+        margin-left: 10px;
+    }
+    .style{
+        margin: auto;
+        display: flex;
+        gap: 1px;
+    }
+    
 
 }
 

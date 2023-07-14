@@ -69,15 +69,32 @@
 .static{
     border-radius: 7px;
 }
-
-
-.soo{
-  font-size: 15px;
-  width: 110px;
-  margin-top: 15px;
-  height: 40px;
-  border-radius: 5px;
-  border-color: rgb(243, 237, 237);
-  font-weight: bold;
-
+@media screen and (max-width:375px){
+    .container_tools{
+        display: flex;
+        flex-direction: column;
+    }
+    .img{
+        width: 340px;
+        height: 200px;
+        margin-left: -90px;
+    }
+    .sign{
+        margin-left:-120px ;
+    }
+    .right-col{
+        display: flex;
+        flex-direction: row;
+        margin-top: 10px;
+        margin-left: -40px;
+    }
+    .grap{
+        margin-left: -60px;
+        font-size: 14px;
+    }
+    .lu{
+        font-size: 15px;
+    }
 }
+
+
