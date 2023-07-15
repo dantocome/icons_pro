@@ -52,3 +52,29 @@
   z-index: 2;
   margin-top: -250px;
 }
+@media screen and (max-width:375px){
+  .photo .right-photo{
+    width: 320px;
+    height: 300px;
+  }
+  .img6{
+    width: 150px;
+  }
+  .img7{
+    width: 150px;
+    margin-top: -130px;
+  }
+  .img8{
+    width: 100px;
+    margin-top: -100px;
+  }
+  .img9{
+    width: 150px;
+    margin-top: -100px;
+  }
+  .img10{
+    width: 150px;
+    height: 120px;
+    margin-left: 80px;
+  }
+}
