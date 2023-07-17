@@ -101,6 +101,9 @@ h4{
 .main{
     display: none;
 }
+.maain{
+    display: flex;
+}
 @media screen and (max-width:375px){
     .footer .footer_bgn{
         margin-top: 10px;

@@ -10,7 +10,7 @@
 }
 .menu_container{
 }
-.icon8{
+.iconss8{
    display: flex;
    margin-top: -70px;
 }
@@ -281,12 +281,15 @@ select[name="Ai"]{
    .btn{
       display: none;
    }
-   .icon8{
+   .iconss8{
       display: flex;
-      margin-top: -5px;
+      margin-top: 15px;
       gap: -5px;
-      margin-left: -80px;
+      margin-left: 200px;
 
+   }
+   .circle_container{
+      filter: blur(80px);
    }
    .us{
       margin-left: -300px;
@@ -294,10 +297,11 @@ select[name="Ai"]{
    }
    .mobil_text{
       display:flex;
-      flex-direction:column-reverse;
+      flex-direction:column;
       padding: 100px;
       margin-top: 70px;
       font-weight: bolder;
+      z-index: 5;
       
    }
    .text_container{
