@@ -1,4 +1,7 @@
 .Illustration .container_illustration{
+    width: 100vw;
+    height: 100%;
+    min-height: 700px;
 }
 .zero{
     display: flex;
@@ -123,7 +126,7 @@
     .Illustration .right-ouch{
         width: 320px;
         height: 300px;
-        margin-left: -75px;
+        margin-left: -10px;
         border: none;
         
     }

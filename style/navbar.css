@@ -317,7 +317,7 @@ select[name="Ai"]{
    }
    .select{
       display: flex;
-      width: 350px;
+      width: 300px;
       align-items: center;
       justify-content: center;
       margin-left: 40px;
@@ -333,13 +333,23 @@ select[name="Ai"]{
       display: flex;
       flex-direction: column;
       margin-left: 50px;
+      
+   }
+   .pop li a{
+      font-size: 12px;
+   }
+   .cap li a{
+      font-size: 12px;
+   }
+   .lun{
+      height: 60px;
    }
    .three_Ds{
       display: flex;
       flex-direction: column;
    }
    .bot{
-      width: 350px;
+      width: 300px;
       margin-left: 40px;
       height: 30px;
       font-size: 13px;
