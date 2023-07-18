@@ -87,8 +87,17 @@
     .container_tools{
         display: flex;
         flex-direction: column;
-        
+        margin-top: 90px;
+        padding: 10px;   
     }
+    span{
+        display: none;
+    }
+    .sof{
+        width: 90px;
+        background-color: white
+    }
+    
     .img{
         width: 340px;
         height: 200px;

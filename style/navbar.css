@@ -151,6 +151,9 @@ h2{
    color: rgb(130, 128, 128);
 
 }
+.men{
+   display: none;
+}
 .cap li a{
    font-size: 18px;
    font-weight:450;
@@ -281,6 +284,28 @@ select[name="Ai"]{
    .btn{
       display: none;
    }
+   .men{
+      display: block;
+      margin-left: -5px;
+      margin-top: 5px;    
+   }
+   .go{
+      font-size: 12px;
+   }
+   .move{
+      font-size: 13px;
+   }
+   .move a{
+      color: black;
+   }
+   .three_Ds{
+      margin-top: 10px;
+      margin-left: 5px;
+   }
+   .price{
+      display: flex;
+      gap: 20px;
+   }
    .iconss8{
       display: flex;
       margin-top: 15px;
@@ -288,18 +313,17 @@ select[name="Ai"]{
       margin-left: 200px;
 
    }
-   .circle_container{
-      filter: blur(80px);
-   }
    .us{
-      margin-left: -300px;
-      margin-top: 20px;
+      margin-left: -270px;
+      margin-top: 10px;
+      height: 13px;
+      width: 20px;
    }
    .mobil_text{
       display:flex;
       flex-direction:column;
       padding: 100px;
-      margin-top: 70px;
+      margin-top: -15px;
       font-weight: bolder;
       z-index: 5;
       
@@ -308,11 +332,12 @@ select[name="Ai"]{
       display: none;
    }
    .circle_container{
-      margin-top: -600px;
+      margin-top: -350px;
+      filter: blur(80px);
    }
    h2{
-      font-size: 45px;
-      line-height: 2.5;
+      font-size: 40px;
+      line-height: 2.3;
       font-weight: bold;
    
    }
@@ -332,21 +357,37 @@ select[name="Ai"]{
       margin: auto;
       padding: 20p;
       width: 300px;
+      margin-top: -150px;
    }
    .popular{
       display: flex;
       flex-direction: column;
       margin-left: 50px;
+      line-height: 1.5;
       
    }
    .pop li a{
-      font-size: 12px;
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .pop{
+
    }
    .cap li a{
-      font-size: 12px;
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .cap{
+      margin-top: -3px;
+   }
+   .pp{
+      font-size: 13px;
    }
    .lun{
-      height: 60px;
+      height: 50px;
+
    }
    .three_Ds{
       display: flex;
@@ -356,16 +397,18 @@ select[name="Ai"]{
       width: 300px;
       margin-left: 40px;
       height: 30px;
-      font-size: 13px;
-      border-radius: 2px;
+      font-size: 12px;
+      border-radius: 3px;
    }
    input[type="text"]{
       height: 35px;
       background-color: white;
       border: 1px solid;
+      border-top-right-radius: 3px;
+      z-index:5;
    }
    ::placeholder{
-      font-size: 11px;
+      font-size: 13px;
    }
    select[name="iconss"]{
       height: 35px;
