@@ -121,14 +121,29 @@
     .Illust{
         display: flex;
         flex-direction: column;
+        margin-top: -20px;
         
     }
     .Illustration .right-ouch{
         width: 320px;
         height: 300px;
         margin-left: -10px;
-        border: none;
-        
+        border: none;  
+    }
+    .ou{
+        font-size: 20px;
+    }
+    .drib{
+        display: block;
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    .zero{
+        display: flex;
+    }
+    .ribble, p{
+        line-height: 1.1;
+        font-size:14px
     }
     .img3{
         margin-left: -100px;
@@ -162,8 +177,6 @@
     .ouch{
         margin-left: -80px;
     }
-    .ribble{
     
-    }
 }
 
