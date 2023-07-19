@@ -64,9 +64,10 @@
     line-height: 2;
     margin-left: -50px;
 }
-.blog a{
+.blog li a{
     line-height: 2;
     text-decoration: underline;
+    color: gray;
 }
 .private{
     color: rgb(92, 88, 88);
@@ -92,6 +93,7 @@
 .online{
     margin-top: 100px;
     margin-left: 50px;
+    
 }
 
 .lis{
@@ -109,10 +111,17 @@ h4{
 }
 .on{
     display: flex;
-    margin-top: 260px;
+    margin-top: 210px;
     margin-left: -1080px;
     gap: 110px;
     line-height: 2;
+    border-bottom: 1px solid;
+    height: 300px;
+    width: 100%;
+    min-width: 900px;
+}
+.smat li a{
+    color: gray;
 }
 
 .maain{
