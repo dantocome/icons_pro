@@ -110,13 +110,13 @@ hr{
 @media screen and (max-width:375px){
     .footer .footer_bgn{
         margin-top: 10px;
-        height: 1500px;
+        height: 1700px;
         display: flex;
     }
     .main{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        flex-wrap: wrap;
+        margin-left: -50px;
     }
     .maain{
         display: none;
@@ -140,6 +140,13 @@ hr{
     }
     .priv{
         display: none;
+    }
+    .ico{
+        font-size: 12px;
+    }
+    .blog li a{
+        font-size: 12px;
+        color: black;
     }
     
     
