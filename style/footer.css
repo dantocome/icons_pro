@@ -101,8 +101,11 @@ h4{
 .main{
     display: none;
 }
+hr{
+}
 .maain{
     display: flex;
+    
 }
 @media screen and (max-width:375px){
     .footer .footer_bgn{
@@ -111,8 +114,9 @@ h4{
         display: flex;
     }
     .main{
-        display: flex;
-        flex-direction: column;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        flex-wrap: wrap;
     }
     .maain{
         display: none;
@@ -133,6 +137,9 @@ h4{
     .log2{
         height: 16px;
         width: 16px;
+    }
+    .priv{
+        display: none;
     }
     
     
