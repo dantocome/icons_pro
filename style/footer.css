@@ -169,9 +169,18 @@ h4{
     .maain{
         display: none;
     }
-    .logos{
+    .top-cl{
+        padding: 50px;
+        margin-left: -120px;
     
     }
+    .Dev{
+        margin-top: -100px;
+    }
+    .Dev2{
+        margin-top: -100px;
+    }
+    
     .one{
         display: flex;
     }
