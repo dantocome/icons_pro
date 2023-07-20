@@ -1,6 +1,6 @@
 .free_icons .set{
       display: flex;
-      gap: 10px;
+      gap: 15px;
       color: rgb(186, 185, 185);
 }
 .style{
@@ -17,11 +17,12 @@
     font-weight: bold;
 }
 .os{
-    height: 40px;
+    height: 35px;
 }
 .container_sec{
      height: 100%;
      min-height: 400px;
+     margin-left: 40px;
 }
 .wrap_gly{
    display: flex;
@@ -31,19 +32,19 @@
 }
 .glyph_container{
     border: 1px solid rgb(227, 224, 224);
-    height: 200px;
-    width: 200px;
+    height: 180px;
+    width: 180px;
     border-radius: 5px;
 }
 .glyph_cn{
     border: 1px solid rgb(227, 224, 224);
-    height: 200px;
-    width: 200px;
+    height: 180px;
+    width: 180px;
     border-radius: 5px;
 }
 .ios{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .love{
     text-align: center;
