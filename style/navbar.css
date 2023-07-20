@@ -9,11 +9,15 @@
    
 }
 .menu_container{
+
+}
+.just{
+   display: flex;
 }
 .iconss8{
    display: flex;
    margin-top: -70px;
-   margin-left: 40px;
+   margin-left: -20px;
 }
 .icon{
    margin: 13px;
@@ -47,9 +51,9 @@ h2{
 }
 .price{
    display: flex;
-   margin-left: 150px;
+   margin-left: 1200px;
    gap: 40px;
-   margin-top: 10px;
+   margin-top: -30px;
 }
 .us{
    margin-top: 5px;
@@ -109,7 +113,6 @@ h2{
 }
 .primnav{
    display: flex;
-   margin-left: -30px;
    gap: 20px;
    align-items: center;
    justify-content: center;
@@ -227,8 +230,8 @@ select[name="Ai"]{
    width: 40px;
 }
 .first_prim_navbar{
-   margin-left: 300px;
-   margin-top: -50px;
+   margin-left: -550px;
+   margin-top: -40px;
    position: relative;
 }
 .circle_container{
