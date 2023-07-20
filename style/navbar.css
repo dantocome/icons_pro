@@ -45,7 +45,7 @@ h2{
 }
 .price{
    display: flex;
-   margin-left: 250px;
+   margin-left: 150px;
    gap: 40px;
    margin-top: 10px;
 }
