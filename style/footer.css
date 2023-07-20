@@ -68,6 +68,7 @@
     line-height: 2;
     text-decoration: underline;
     color: gray;
+    
 }
 .private{
     color: rgb(92, 88, 88);
@@ -81,6 +82,17 @@
     display: flex;
     margin-left: 35px;
     margin-top: 100px;
+    gap: 50px;
+}
+.conditn{
+    display: flex;
+    margin-left: 50px;
+    gap: 20px;
+    
+}
+.conditn li a{
+    color: rgb(70, 69, 69);
+    text-decoration: underline;
 }
 .priv{
     display: flex;
@@ -103,9 +115,6 @@
 h4{
     text-decoration: none;
 }
-.smat{
-    text-decoration: underline;
-}
 .ico{
     margin-top: 2px;
 }
@@ -115,22 +124,32 @@ h4{
     margin-left: -1080px;
     gap: 110px;
     line-height: 2;
-    border-bottom: 1px solid;
     height: 300px;
     width: 100%;
-    min-width: 900px;
+    min-width: 1200px;
+    z-index: 2;
 }
 .smat li a{
     color: gray;
+    text-decoration: underline;
+}
+.main{
+    display: none;
+}
+.rum{
+
 }
 
 .maain{
-    display: flex;
-    flex-direction:row;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     gap: 100px;
-    margin-left: -180px;
+    margin-left: -350px;
     line-height: 2;
     
+}
+.logu{
+    margin-top: -230px;
 }
 @media screen and (max-width:375px){
     .footer .footer_bgn{
@@ -143,6 +162,10 @@ h4{
         grid-template-columns: repeat(2, 1fr);
         margin-left: -50px;
     }
+    .logu{
+        margin-top: -50px;
+    }
+    
     .maain{
         display: none;
     }
