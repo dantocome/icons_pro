@@ -306,13 +306,14 @@ select[name="Ai"]{
    .price{
       display: flex;
       gap: 20px;
-      margin-left: 
+
    }
    .iconss8{
       display: flex;
       margin-top: 15px;
       gap: -5px;
-      margin-left: 200px;
+      margin-left:150px;
+
    }
    .us{
       margin-left: -270px;
