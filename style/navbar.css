@@ -11,13 +11,11 @@
 .menu_container{
 
 }
-.just{
-   display: flex;
-}
+
 .iconss8{
    display: flex;
    margin-top: -70px;
-   margin-left: 50px;
+   margin-left: -90px;
 }
 .icon{
    margin: 13px;
