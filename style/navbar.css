@@ -17,7 +17,7 @@
 .iconss8{
    display: flex;
    margin-top: -70px;
-   margin-left: -20px;
+   margin-left: 30px;
 }
 .icon{
    margin: 13px;
@@ -230,7 +230,7 @@ select[name="Ai"]{
    width: 40px;
 }
 .first_prim_navbar{
-   margin-left: -550px;
+   margin-left: -450px;
    margin-top: -40px;
    position: relative;
 }
