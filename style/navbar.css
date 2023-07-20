@@ -13,7 +13,7 @@
 .iconss8{
    display: flex;
    margin-top: -70px;
-   margin-left: 100px;
+   margin-left: 40px;
 }
 .icon{
    margin: 13px;
@@ -45,7 +45,7 @@ h2{
 }
 .price{
    display: flex;
-   margin-left: 410px;
+   margin-left: 250px;
    gap: 40px;
    margin-top: 10px;
 }
@@ -306,13 +306,13 @@ select[name="Ai"]{
    .price{
       display: flex;
       gap: 20px;
+      margin-left: 
    }
    .iconss8{
       display: flex;
       margin-top: 15px;
       gap: -5px;
       margin-left: 200px;
-
    }
    .us{
       margin-left: -270px;
