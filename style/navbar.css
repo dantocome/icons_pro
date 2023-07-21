@@ -290,9 +290,11 @@ select[name="Ai"]{
       display: none;
    }
    .men{
-      display: block;
+      display: flex;
       margin-left: -5px;
-      margin-top: 5px;    
+      margin-top: 5px; 
+      flex-direction: column; 
+      gap: 15px;  
    }
    .go{
       font-size: 12px;
