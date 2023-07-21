@@ -95,6 +95,7 @@
     color: rgb(70, 69, 69);
     text-decoration: underline;
     font-size: 12px;
+    display: flex;
 }
 
 .priv{
