@@ -399,10 +399,7 @@ select[name="Ai"]{
       height: 50px;
 
    }
-   .three_Ds{
-      display: flex;
-      flex-direction: column;
-   }
+   
    .bot{
       width: 300px;
       margin-left: 40px;

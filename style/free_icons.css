@@ -95,7 +95,8 @@
     }
     .container_sec{
         margin-top: 40px;
-        margin-left: 30px;
+        margin-left: 40px;
+        border: 1px solid red;
     }
     
 
