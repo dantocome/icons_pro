@@ -46,7 +46,7 @@
 .container_tools{
     display: flex;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 30px;
     height: 100%;
     min-height: 400px;
 }
