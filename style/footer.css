@@ -97,6 +97,14 @@
     font-size: 12px;
     display: flex;
 }
+.tn{
+    display: flex;
+    gap: 20px;
+
+}
+.tn li a{
+    font-size: 15px;
+}
 
 .priv{
     display: flex;
