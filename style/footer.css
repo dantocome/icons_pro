@@ -105,6 +105,9 @@
 .tn li a{
     font-size: 14px;
 }
+.copy{
+    font-size:14px ;
+}
 
 .priv{
     display: flex;
