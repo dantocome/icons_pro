@@ -363,7 +363,7 @@ select[name="Ai"]{
    }
    .select{
       display: flex;
-      width: 300px;
+      width: 350px;
       align-items: center;
       justify-content: center;
       margin-left: 40px;
@@ -409,14 +409,16 @@ select[name="Ai"]{
    }
 
    .bot{
-      width: 300px;
+      width: 350px;
       margin-left: 40px;
-      height: 30px;
+      height: 40px;
+      margin-top: 20px;
       font-size: 12px;
       border-radius: 3px;
    }
    input[type="text"]{
-      height: 35px;
+      height: 45px;
+      width: 500px;
       background-color: white;
       border: 1px solid;
       border-top-right-radius: 3px;
@@ -426,7 +428,9 @@ select[name="Ai"]{
       font-size: 13px;
    }
    select[name="iconss"]{
-      height: 35px;
+      height: 45px;
+      width: 100px;
+
    }
    
  }
