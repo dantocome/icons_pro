@@ -296,6 +296,9 @@ select[name="Ai"]{
       gap: 50px;
       
    }
+   .container{
+      display: flex;
+   }
    .men{
       display: block;
       margin-left: -5px;
