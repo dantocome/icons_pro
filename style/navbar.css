@@ -294,7 +294,7 @@ select[name="Ai"]{
       margin-left: -5px;
       margin-top: 5px; 
       flex-direction: column; 
-      gap: 15px;  
+      gap: 20px;  
    }
    .go{
       font-size: 12px;
