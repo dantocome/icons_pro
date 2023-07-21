@@ -293,7 +293,8 @@ select[name="Ai"]{
       display: flex;
       flex-direction: row;
       border: 1px solid;
-      gap: 50px;
+      gap: 10px;
+      width: 100vw;
       
    }
    .container{
@@ -330,7 +331,7 @@ select[name="Ai"]{
    .price{
       display: flex;
       gap: 40px;
-      margin-left: 700px;
+      margin-left: -1100px;
       margin-top: 30px;
 
    }
@@ -351,7 +352,7 @@ select[name="Ai"]{
       display: flex;
       margin-top: 15px;
       gap: -5px;
-      margin-left:200px;
+      margin-left:10px;
       
 
    }
