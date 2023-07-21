@@ -378,7 +378,7 @@ select[name="Ai"]{
       display: none;
    }
    .circle_container{
-      margin-top: -300px;
+      margin-top: -250px;
       filter: blur(80px);
    }
    h2{
