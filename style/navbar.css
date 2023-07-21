@@ -307,7 +307,7 @@ select[name="Ai"]{
       margin-top: 10px;
       margin-left: 5px;
       display: flex;
-      gap: 20px;
+      gap: 40px;
       flex-direction: column;
    }
    .price{
@@ -399,7 +399,7 @@ select[name="Ai"]{
       height: 50px;
 
    }
-   
+
    .bot{
       width: 300px;
       margin-left: 40px;
