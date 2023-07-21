@@ -134,6 +134,9 @@ h4{
     margin-top: 2px;
     font-size: 12px;
 }
+.line{
+    font-size: 10px;
+}
 .on{
     display: flex;
     margin-top: 210px;
