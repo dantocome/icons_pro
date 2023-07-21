@@ -290,11 +290,9 @@ select[name="Ai"]{
       display: none;
    }
    .men{
-      display: flex;
+      display: block;
       margin-left: -5px;
-      margin-top: 5px; 
-      flex-direction: column; 
-      gap: 20px;  
+      margin-top: 5px;    
    }
    .go{
       font-size: 12px;
@@ -308,9 +306,9 @@ select[name="Ai"]{
    .three_Ds{
       margin-top: 10px;
       margin-left: 5px;
-      display: grid;
+      display: flex;
       gap: 30px;
-      grid-template-columns: repeat(1, 1fr);
+      flex-direction: column;
    }
    .price{
       display: flex;
