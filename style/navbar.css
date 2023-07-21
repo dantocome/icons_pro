@@ -74,7 +74,7 @@ h2{
 }
 .lun{
    border-radius: 5px;
-   height: 70px;
+   height: 75px;
 }
 .spann{
    font-size: 30px;
@@ -299,6 +299,7 @@ select[name="Ai"]{
    }
    .move{
       font-size: 13px;
+      
    }
    .move a{
       color: black;
@@ -396,7 +397,8 @@ select[name="Ai"]{
       font-size: 13px;
    }
    .lun{
-      height: 75px;
+      height: 60px;
+      width: 60px;
 
    }
 
