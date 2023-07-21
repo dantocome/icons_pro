@@ -306,9 +306,9 @@ select[name="Ai"]{
    .three_Ds{
       margin-top: 10px;
       margin-left: 5px;
-      display: flex;
+      display: grid;
       gap: 30px;
-      flex-direction: column;
+      grid-template-columns: repeat(1, 1fr);
    }
    .price{
       display: flex;
