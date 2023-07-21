@@ -87,12 +87,15 @@
     display: flex;
     margin-left: 50px;
     gap: 20px;
+
     
 }
+
 .conditn li a{
     color: rgb(70, 69, 69);
     text-decoration: underline;
 }
+
 .priv{
     display: flex;
     margin-top: 140px;
