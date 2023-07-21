@@ -307,7 +307,7 @@ select[name="Ai"]{
       margin-top: 10px;
       margin-left: 5px;
       display: flex;
-      justify-content: space-between;
+      padding: 20px;
       flex-direction: column;
    }
    .price{
