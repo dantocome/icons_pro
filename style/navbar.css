@@ -306,10 +306,12 @@ select[name="Ai"]{
    .three_Ds{
       margin-top: 10px;
       margin-left: 5px;
+      display: flex;
    }
    .price{
       display: flex;
       gap: 20px;
+      margin-left: -100px;
 
    }
    .iconss8{
