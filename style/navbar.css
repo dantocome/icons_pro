@@ -324,7 +324,7 @@ select[name="Ai"]{
    }
    .price{
       display: flex;
-      gap: 20px;
+      gap: 40px;
       margin-left: 700px;
       margin-top: 30px;
 
