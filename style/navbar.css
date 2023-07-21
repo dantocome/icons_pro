@@ -293,6 +293,7 @@ select[name="Ai"]{
       display: flex;
       flex-direction: row;
       border: 1px solid;
+      gap: 20px;
       
    }
    .men{
