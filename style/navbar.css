@@ -314,6 +314,9 @@ select[name="Ai"]{
    .ds1{
       margin-top: 35px;
    }
+   .ri{
+      margin-left: 15px;
+   }
    .price{
       display: flex;
       gap: 20px;
