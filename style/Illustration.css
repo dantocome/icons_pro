@@ -14,7 +14,7 @@
 }
 .Illustration .right-ouch{
     background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/products/preview/ouch.png);
-    width: 560px;
+    width: 580px;
     height: 570px;
     border: 2px solid rgb(192, 233, 192);
     border-radius: 10px; 
@@ -57,19 +57,20 @@
     right: 0;
     left: 0;
     margin-top: 45px;
-    z-index: 1;
+    z-index: -1;
     border: 2px solid rgb(218, 215, 215);
     border-radius: 7px;
 }
 
 .img4{
- margin-left: 400px;
+ margin-left: 380px;
  margin-top: 30px;
  position: relative;
  left: 0;
  right: 0;
  border: 2px solid rgb(248, 230, 195);
- border-radius: 5px;
+ border-radius: 10px;
+ z-index: -1;
 }
 .img4:hover{
     z-index: 5;
