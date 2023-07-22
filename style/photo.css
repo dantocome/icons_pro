@@ -4,7 +4,8 @@
 }
 .photo .right-photo{
     background-image: url(https://maxst.icons8.com/vue-static/landings/page-index/products/preview/moose.png);
-    width: 580px;
+    max-width: 560px;
+    width: 100%;
     height: 570px;
     margin-top: 30px;
     border: 2px solid rgb(197, 249, 249);
@@ -12,6 +13,10 @@
     position: relative;
     z-index: 1;
     
+}
+.right-ouc{
+  width: 100%;
+  max-width: 560px;
 }
 .img6{
   position: relative;
