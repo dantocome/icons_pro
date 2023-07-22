@@ -132,7 +132,7 @@
         flex-direction: column;
         gap: 20px;
         margin-left: -40px;
-        border:  1px solid;
+    
     }
     .static{
         width: 340px;
