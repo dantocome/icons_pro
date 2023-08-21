@@ -64,6 +64,9 @@
         grid-template-columns: repeat(2, 1fr);
         margin-left: -4px;
         gap: 10px;
+        width: 19em;
+        padding: 0.1em 4em 0.1em 2em;
+        
         
     
     }
@@ -92,6 +95,9 @@
         margin: auto;
         display: flex;
         gap: 1px;
+        border: 1px solid;
+        width: 17em;
+        margin-left: 0.5em;
     }
     .container_sec{
         margin-top: 70px;

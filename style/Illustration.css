@@ -159,7 +159,7 @@
         z-index: 2;
     }
     .img4{
-        margin-left: 215px;
+        margin-left: 200px;
         width: 130px;
         border: none;
         margin-top: 15px;
@@ -193,12 +193,18 @@
         height: 300px;
         
     }
+    
     .ouchh{
         margin-left: -80px;
         margin-top: 50px;
+        width: 20em;
     }
     .ouch{
         margin-left: -80px;
+    }
+    
+    .left-ouch{
+        width: 17em;
     }
     
 }

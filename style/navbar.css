@@ -294,6 +294,7 @@ select[name="Ai"]{
       margin-top: 30px;
       margin-left: 200px;
       gap: 15px;
+      
    }
    .btn{
       display: none;
@@ -302,6 +303,8 @@ select[name="Ai"]{
       display: flex;
       flex-direction: row;
       gap: 10px;
+      height: 2em;
+      width: 4em;
    
       
    }
@@ -329,12 +332,13 @@ select[name="Ai"]{
       display: flex;
       gap: 40px;
       flex-direction: column;
+      width: 21em;
    }
    .ds1{
       margin-top: 35px;
    }
    .ri{
-      margin-left: 15px;
+      margin-left: 3px;
    }
    .price{
       display: flex;
@@ -362,6 +366,7 @@ select[name="Ai"]{
       gap: -5px;
       margin-left: -180px;
       
+      
 
    }
    .us{
@@ -385,6 +390,7 @@ select[name="Ai"]{
    .circle_container{
       margin-top: -200px;
       filter: blur(80px);
+      width: 90%;
    }
    h2{
       font-size: 40px;
@@ -415,6 +421,7 @@ select[name="Ai"]{
       flex-direction: column;
       margin-left: 50px;
       line-height: 1.5;
+   
       
    }
    .pop li a{
