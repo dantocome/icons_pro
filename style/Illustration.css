@@ -118,6 +118,186 @@
     line-height: 2;
     font-size: 20px;
 }
+
+@media screen and (max-width:500px){
+    .Illust{
+        display: flex;
+        flex-direction: column;
+        margin-top: -20px;
+        margin-left: 110px;
+        
+    }
+    .Illustration .right-ouch{
+        width: 320px;
+        height: 300px;
+    
+        border: none;  
+    }
+    .ou{
+        font-size: 20px;
+    }
+    .drib{
+        display: block;
+        font-size: 14px;
+        line-height: 0.1;
+        margin-top: 10px;
+    }
+    .dri{
+        height: 40px;
+        width: 40px;
+    }
+    .zero{
+        display: flex;
+    }
+    .ribble, p{
+        line-height: 1.1;
+        font-size:14px
+    }
+    .img3{
+        margin-left: -100px;
+        margin-top: -70px;
+        width: 510px;
+        z-index: 2;
+    }
+    .img4{
+        margin-left: 200px;
+        width: 130px;
+        border: none;
+        margin-top: 15px;
+        border-radius: 15px;
+    }
+    .img1{
+        width: 70px;
+        height: 75px;
+        border: none;
+        border-radius: 15px;
+        margin-top: 25px;
+        margin-left: 100px;
+    }
+    .img2{
+        margin-top: 200px;
+        width: 75px;
+        height: 70px;
+        border: none;
+        margin-left: 30px;
+        border-radius: 13px;
+    }
+    .img5{
+        width: 200px;
+        margin-left: 130px;
+        height: 110px;
+        margin-top: 110px;
+        border-radius: 14px;
+    }
+    .right-ouc{
+        width: 320px;
+        height: 300px;
+        
+    }
+    
+    .ouchh{
+        margin-left: -80px;
+        margin-top: 50px;
+        width: 20em;
+    }
+    .ouch{
+        margin-left: -80px;
+    }
+    
+    .left-ouch{
+        width: 17em;
+    }
+}
+
+@media screen and (max-width:450px){
+    .Illust{
+        display: flex;
+        flex-direction: column;
+        margin-top: -20px;
+        margin-left: 110px;
+        
+    }
+    .Illustration .right-ouch{
+        width: 320px;
+        height: 300px;
+    
+        border: none;  
+    }
+    .ou{
+        font-size: 20px;
+    }
+    .drib{
+        display: block;
+        font-size: 14px;
+        line-height: 0.1;
+        margin-top: 10px;
+    }
+    .dri{
+        height: 40px;
+        width: 40px;
+    }
+    .zero{
+        display: flex;
+    }
+    .ribble, p{
+        line-height: 1.1;
+        font-size:14px
+    }
+    .img3{
+        margin-left: -100px;
+        margin-top: -70px;
+        width: 510px;
+        z-index: 2;
+    }
+    .img4{
+        margin-left: 200px;
+        width: 130px;
+        border: none;
+        margin-top: 15px;
+        border-radius: 15px;
+    }
+    .img1{
+        width: 70px;
+        height: 75px;
+        border: none;
+        border-radius: 15px;
+        margin-top: 25px;
+        margin-left: 100px;
+    }
+    .img2{
+        margin-top: 200px;
+        width: 75px;
+        height: 70px;
+        border: none;
+        margin-left: 30px;
+        border-radius: 13px;
+    }
+    .img5{
+        width: 200px;
+        margin-left: 130px;
+        height: 110px;
+        margin-top: 110px;
+        border-radius: 14px;
+    }
+    .right-ouc{
+        width: 320px;
+        height: 300px;
+        
+    }
+    
+    .ouchh{
+        margin-left: -80px;
+        margin-top: 50px;
+        width: 20em;
+    }
+    .ouch{
+        margin-left: -80px;
+    }
+    
+    .left-ouch{
+        width: 17em;
+    }
+}
 @media screen and (max-width:375px){
     .Illust{
         display: flex;

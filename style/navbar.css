@@ -285,6 +285,386 @@ select[name="Ai"]{
    background-color:rgb(220, 73, 20) ;
 }
 
+
+@media screen and (max-width:500px){
+   .primnav li a{
+      display: none;
+   }
+   .ppri{
+      display: flex;
+      margin-top: 30px;
+      margin-left: 200px;
+      gap: 15px;
+      
+   }
+   .btn{
+      display: none;
+   }
+   .menu_container{
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      height: 2em;
+      width: 4em;
+   
+      
+   }
+   .container{
+      display: flex;
+   }
+    i{
+      margin-top: 15px;
+      margin-left: 10px;
+       
+   }
+   .go{
+      font-size: 12px;
+   }
+   .move{
+      font-size: 13px;
+      
+   }
+   .move a{
+      color: black;
+   }
+   .three_Ds{
+      margin-top: 10px;
+      margin-left: 5px;
+      display: flex;
+      gap: 40px;
+      flex-direction: column;
+      width: 21em;
+   }
+   .ds1{
+      margin-top: 35px;
+   }
+   .ri{
+      margin-left: 3px;
+   }
+   .price{
+      display: flex;
+      gap: px;
+      margin-left: -2000px;
+      margin-top: 30px;
+
+   }
+   .to{
+      margin-left: -1000px;
+   }
+   .pr li a{
+      display: none;
+   }
+   .btn{
+      display: none;
+   }
+   .us{
+      display: block;
+
+   }
+   .iconss8{
+      display: flex;
+      margin-top: 15px;
+      gap: -5px;
+      margin-left: -180px;
+      
+      
+
+   }
+   .us{
+      margin-left: -27px;
+      margin-top: 10px;
+      height: 13px;
+      width: 20px;
+   }
+   .mobil_text{
+      display:flex;
+      flex-direction:column;
+      padding: 100px;
+      margin-top: -15px;
+      font-weight: bolder;
+      z-index: 5;
+      
+   }
+   .text_container{
+      display: none;
+   }
+   .circle_container{
+      margin-top: -200px;
+      filter: blur(80px);
+      width: 90%;
+   }
+   h2{
+      font-size: 40px;
+      line-height: 2.3;
+      font-weight: bold;
+   
+   }
+   .icon{
+      margin-top: 8px;
+   }
+   .select{
+      display: flex;
+      width: 350px;
+      align-items: center;
+      justify-content: center;
+      margin-left: 40px;
+   }
+   .cons{
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      padding: 20p;
+      width: 300px;
+      margin-top: -150px;
+   }
+   .popular{
+      display: flex;
+      flex-direction: column;
+      margin-left: 50px;
+      line-height: 1.5;
+   
+      
+   }
+   .pop li a{
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .pop{
+
+   }
+   .cap li a{
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .cap{
+      margin-top: -3px;
+   }
+   .pp{
+      font-size: 13px;
+   }
+   .lun{
+      height: 60px;
+      width: 60px;
+
+   }
+
+   .bot{
+      width: 350px;
+      margin-left: 40px;
+      height: 40px;
+      margin-top: 20px;
+      font-size: 12px;
+      border-radius: 3px;
+   }
+   input[type="text"]{
+      height: 45px;
+      width: 500px;
+      background-color: white;
+      border: 1px solid;
+      border-top-right-radius: 3px;
+      z-index:5;
+   }
+   ::placeholder{
+      font-size: 13px;
+   }
+   select[name="iconss"]{
+      height: 45px;
+      width: 100px;
+
+   }
+}
+
+@media screen and (max-width:450px){
+   .primnav li a{
+      display: none;
+   }
+   .ppri{
+      display: flex;
+      margin-top: 30px;
+      margin-left: 200px;
+      gap: 15px;
+      
+   }
+   .btn{
+      display: none;
+   }
+   .menu_container{
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      height: 2em;
+      width: 4em;
+   
+      
+   }
+   .container{
+      display: flex;
+   }
+    i{
+      margin-top: 15px;
+      margin-left: 10px;
+       
+   }
+   .go{
+      font-size: 12px;
+   }
+   .move{
+      font-size: 13px;
+      
+   }
+   .move a{
+      color: black;
+   }
+   .three_Ds{
+      margin-top: 10px;
+      margin-left: 5px;
+      display: flex;
+      gap: 40px;
+      flex-direction: column;
+      width: 21em;
+   }
+   .ds1{
+      margin-top: 35px;
+   }
+   .ri{
+      margin-left: 3px;
+   }
+   .price{
+      display: flex;
+      gap: px;
+      margin-left: -2000px;
+      margin-top: 30px;
+
+   }
+   .to{
+      margin-left: -1000px;
+   }
+   .pr li a{
+      display: none;
+   }
+   .btn{
+      display: none;
+   }
+   .us{
+      display: block;
+
+   }
+   .iconss8{
+      display: flex;
+      margin-top: 15px;
+      gap: -5px;
+      margin-left: -180px;
+      
+      
+
+   }
+   .us{
+      margin-left: -27px;
+      margin-top: 10px;
+      height: 13px;
+      width: 20px;
+   }
+   .mobil_text{
+      display:flex;
+      flex-direction:column;
+      padding: 100px;
+      margin-top: -15px;
+      font-weight: bolder;
+      z-index: 5;
+      
+   }
+   .text_container{
+      display: none;
+   }
+   .circle_container{
+      margin-top: -200px;
+      filter: blur(80px);
+      width: 90%;
+   }
+   h2{
+      font-size: 40px;
+      line-height: 2.3;
+      font-weight: bold;
+   
+   }
+   .icon{
+      margin-top: 8px;
+   }
+   .select{
+      display: flex;
+      width: 350px;
+      align-items: center;
+      justify-content: center;
+      margin-left: 40px;
+   }
+   .cons{
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      padding: 20p;
+      width: 300px;
+      margin-top: -150px;
+   }
+   .popular{
+      display: flex;
+      flex-direction: column;
+      margin-left: 50px;
+      line-height: 1.5;
+   
+      
+   }
+   .pop li a{
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .pop{
+
+   }
+   .cap li a{
+      font-size: 13px;
+      color: black;
+      text-decoration: underline;
+   }
+   .cap{
+      margin-top: -3px;
+   }
+   .pp{
+      font-size: 13px;
+   }
+   .lun{
+      height: 60px;
+      width: 60px;
+
+   }
+
+   .bot{
+      width: 350px;
+      margin-left: 40px;
+      height: 40px;
+      margin-top: 20px;
+      font-size: 12px;
+      border-radius: 3px;
+   }
+   input[type="text"]{
+      height: 45px;
+      width: 500px;
+      background-color: white;
+      border: 1px solid;
+      border-top-right-radius: 3px;
+      z-index:5;
+   }
+   ::placeholder{
+      font-size: 13px;
+   }
+   select[name="iconss"]{
+      height: 45px;
+      width: 100px;
+
+   }
+}
  @media screen and (max-width:375px){
    .primnav li a{
       display: none;

@@ -54,6 +54,108 @@
     text-align: center;
     margin-top: 20px;
 }
+
+@media screen and (max-width:500px){
+    .glyph_cn{
+        display: none;
+    }
+    
+    .wrap_gly{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: -4px;
+        gap: 10px;
+        width: 19em;
+        padding: 0.1em 4em 0.1em 2em;
+        
+        
+    
+    }
+    .glyph_container{
+        width: 140px;
+        height: 150px; 
+    }
+    .os{
+        height: 20px;
+        margin-top: -80px;  
+    }
+    .gl{
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .all{
+        font-size: 14px;
+        padding: 5px;
+    }
+    .set{
+        display: flex;
+        margin: auto;
+        margin-left: 10px;
+    }
+    .style{
+        margin: auto;
+        display: flex;
+        gap: 1px;
+        width: 17em;
+        margin-left: 0.5em;
+    }
+    .container_sec{
+        margin-top: 70px;
+        margin-left: 18px;
+        
+    }
+}
+
+@media screen and (max-width:450px){
+    .glyph_cn{
+        display: none;
+    }
+    
+    .wrap_gly{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: -4px;
+        gap: 10px;
+        width: 19em;
+        padding: 0.1em 4em 0.1em 2em;
+        
+        
+    
+    }
+    .glyph_container{
+        width: 140px;
+        height: 150px; 
+    }
+    .os{
+        height: 20px;
+        margin-top: -80px;  
+    }
+    .gl{
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .all{
+        font-size: 14px;
+        padding: 5px;
+    }
+    .set{
+        display: flex;
+        margin: auto;
+        margin-left: 10px;
+    }
+    .style{
+        margin: auto;
+        display: flex;
+        gap: 1px;
+        width: 17em;
+        margin-left: 0.5em;
+    }
+    .container_sec{
+        margin-top: 70px;
+        margin-left: 18px;
+        
+    }
+}
 @media screen and (max-width:375px){
     .glyph_cn{
         display: none;

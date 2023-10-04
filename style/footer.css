@@ -172,6 +172,202 @@ h4{
 .logu{
     margin-top: -230px;
 }
+
+@media screen and (max-width:500px){
+    .footer .footer_bgn{
+        margin-top: 10px;
+        height: 1200px;
+        display: flex;
+    }
+    .main{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: -50px;
+    }
+    .logu{
+        margin-top: -50px;
+    }
+    .policy{
+        display: flex;
+        flex-direction: column;
+        margin-left: 40px;
+        border: 1px solid;
+    }
+    .conditn{
+        display: flex;
+        flex-direction: column;
+        margin-top: -30px;
+        margin-left: 10px;
+        font-size: 12px;
+        color: black;
+    }
+    .conditn li a{
+        text-decoration: none;
+        color: black;
+    }
+    .pol{
+        border-bottom: 1px solid;
+        width: 72px;
+        color: grey
+        
+    }
+    .po{
+        border-bottom: 1px solid;
+        width: 118px;
+        color: gray;
+    }
+    
+    .maain{
+        display: none;
+    }
+    .top-cl{
+        padding: 50px;
+        margin-left: -120px;
+    
+    }
+    .Dev{
+        margin-top: -100px;
+    }
+    .Dev2{
+        margin-top: -100px;
+    }
+    
+    .one{
+        display: flex;
+    }
+    .one2{
+        display: flex;
+    }
+    .log1{
+        height: 16px;
+        width: 16px;
+    }
+    .log2{
+        height: 16px;
+        width: 16px;
+    }
+    .priv{
+        display: none;
+    }
+    .ico{
+        font-size: 11px;
+    }
+
+    .blog li a{
+        font-size: 12px;
+        color: black;
+        line-height: 2;
+        text-decoration: none;
+        border-bottom: 1px solid gray;
+    }
+    .line{
+        font-size: 12px;
+        color: rgb(5, 5, 5);
+    }
+    
+    .company_logo{
+        width: 10em;
+    
+    }
+}
+
+@media screen and (max-width:450px){
+    .footer .footer_bgn{
+        margin-top: 10px;
+        height: 1200px;
+        display: flex;
+    }
+    .main{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: -50px;
+    }
+    .logu{
+        margin-top: -50px;
+    }
+    .policy{
+        display: flex;
+        flex-direction: column;
+        margin-left: 40px;
+        border: 1px solid;
+    }
+    .conditn{
+        display: flex;
+        flex-direction: column;
+        margin-top: -30px;
+        margin-left: 10px;
+        font-size: 12px;
+        color: black;
+    }
+    .conditn li a{
+        text-decoration: none;
+        color: black;
+    }
+    .pol{
+        border-bottom: 1px solid;
+        width: 72px;
+        color: grey
+        
+    }
+    .po{
+        border-bottom: 1px solid;
+        width: 118px;
+        color: gray;
+    }
+    
+    .maain{
+        display: none;
+    }
+    .top-cl{
+        padding: 50px;
+        margin-left: -120px;
+    
+    }
+    .Dev{
+        margin-top: -100px;
+    }
+    .Dev2{
+        margin-top: -100px;
+    }
+    
+    .one{
+        display: flex;
+    }
+    .one2{
+        display: flex;
+    }
+    .log1{
+        height: 16px;
+        width: 16px;
+    }
+    .log2{
+        height: 16px;
+        width: 16px;
+    }
+    .priv{
+        display: none;
+    }
+    .ico{
+        font-size: 11px;
+    }
+
+    .blog li a{
+        font-size: 12px;
+        color: black;
+        line-height: 2;
+        text-decoration: none;
+        border-bottom: 1px solid gray;
+    }
+    .line{
+        font-size: 12px;
+        color: rgb(5, 5, 5);
+    }
+    
+    .company_logo{
+        width: 10em;
+    
+    }
+}
 @media screen and (max-width:375px){
     .footer .footer_bgn{
         margin-top: 10px;
