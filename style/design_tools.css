@@ -99,7 +99,7 @@
 }
 
 @media screen and (max-width:500px){
-    .container_tools{
+    .makup{
         display: flex;
         flex-direction: column;
         margin-top: 90px;
@@ -179,7 +179,7 @@
 }
 
 @media screen and (max-width:450px){
-    .container_tools{
+    .makup{
         display: flex;
         flex-direction: column;
         margin-top: 90px;
@@ -258,7 +258,7 @@
     }
 }
 @media screen and (max-width:375px){
-    .container_tools{
+    .makup{
         display: flex;
         flex-direction: column;
         margin-top: 90px;
