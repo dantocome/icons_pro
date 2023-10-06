@@ -170,6 +170,9 @@
     
     .ap{
         margin-left: 10px;
+        display: flex;
+        margin-top: -4.5em;
+        gap: 0.1em;
     }
     .right-col_new{
         margin-top: 15px;
@@ -253,6 +256,9 @@
     
     .ap{
         margin-left: 10px;
+        display: flex;
+        margin-top: -4.5em;
+        gap: 0.1em;
     }
     .right-col_new{
         margin-top: 15px;
