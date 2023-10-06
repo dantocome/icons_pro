@@ -317,7 +317,7 @@ select[name="Ai"]{
       margin-left: 10px;
        
    }
-   .go{
+   .goo{
       font-size: 12px;
    }
    .move{
@@ -339,7 +339,7 @@ select[name="Ai"]{
       margin-top: 35px;
    }
    .ri{
-      margin-left: 3px;
+      margin-left: 3px;margin-top: -1em;
    }
    .price{
       display: flex;
@@ -391,7 +391,7 @@ select[name="Ai"]{
    .circle_container{
       margin-top: -200px;
       filter: blur(80px);
-      width: 90%;
+      width: 80%;
    }
    h2{
       font-size: 40px;
@@ -507,7 +507,7 @@ select[name="Ai"]{
       margin-left: 10px;
        
    }
-   .go{
+   .goo{
       font-size: 12px;
    }
    .move{
@@ -530,6 +530,7 @@ select[name="Ai"]{
    }
    .ri{
       margin-left: 3px;
+      margin-top: -1em;
    }
    .price{
       display: flex;
@@ -581,7 +582,7 @@ select[name="Ai"]{
    .circle_container{
       margin-top: -200px;
       filter: blur(80px);
-      width: 90%;
+      width: 80%;
    }
    h2{
       font-size: 40px;
@@ -696,7 +697,7 @@ select[name="Ai"]{
       margin-left: 10px;
        
    }
-   .go{
+   .goo{
       font-size: 12px;
    }
    .move{
@@ -719,6 +720,7 @@ select[name="Ai"]{
    }
    .ri{
       margin-left: 3px;
+      margin-top: -1em;
    }
    .price{
       display: flex;
@@ -770,7 +772,7 @@ select[name="Ai"]{
    .circle_container{
       margin-top: -200px;
       filter: blur(80px);
-      width: 90%;
+      width: 80%;
    }
    h2{
       font-size: 40px;
