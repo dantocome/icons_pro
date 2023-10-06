@@ -197,6 +197,12 @@
     }
     .come{
         display: flex;
+        flex-direction: row;
+        gap: 0.1em;
+    }
+    .go{
+        margin-left: -6em;
+        
     }
     .micro{
         display: none;
@@ -219,11 +225,18 @@
 
         
     }
+    .go{
+        margin-top: 2em;
+    }
+    .gas{
+        margin-top: 1.4em;
+        margin-left: -2.5em;
+    }
     .right-col{
-        display: flex;
-        flex-direction: row;
         margin-top: 10px;
         margin-left: -80px;
+        
+        
     }
     .grap{
         margin-left: -60px;
@@ -259,6 +272,10 @@
         display: flex;
         margin-top: -4.5em;
         gap: 0.1em;
+    
+    }
+    .esc{
+        margin-top: 4.5em;
     }
     .right-col_new{
         margin-top: 15px;
@@ -320,7 +337,7 @@
     .right-col{
         margin-top: 10px;
         margin-left: -80px;
-        display: flex;
+        
         
     }
     .grap{
