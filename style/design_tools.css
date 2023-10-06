@@ -8,13 +8,29 @@
 .left-col{
     margin-left: 50px;
 
-}.right-col{
+}
+.right-col{
     display: flex;
-    margin-left: 50px;
+    margin-left: 5px;
     margin-top: 20px;
     gap: 7px;
     
 }
+.come{
+    display: flex;
+    gap: 1em;
+
+}
+.makup{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100%;
+    min-height: 400px;
+    gap: 2em;
+    padding: 2em 5em 2em 5em;
+}
+
 .sof{
     font-weight: bold;
     border: 1px solid rgb(229, 228, 228);
@@ -43,20 +59,12 @@
 .grap{
     margin-left: 5px;
 }
-.container_tools{
-    display: flex;
-    margin-top: 50px;
-    margin-left: 30px;
-    height: 100%;
-    min-height: 400px;
-    gap: 2em;
-    padding: 2em 5em 2em 5em;
-}
+
 .seo{
     margin-top: -98px;
 }
 .right-co{
-    margin-left: 50px;
+    margin-left: 5px;
     margin-top: 20px;
 }
 .fin{
@@ -65,7 +73,8 @@
 .container_tools_mega{
     display: flex;
     margin-top: 40px;
-    margin-left: 30px;
+    margin-left: 35px;
+    
 }
 .right-col_new{
    margin-left: 50px;
